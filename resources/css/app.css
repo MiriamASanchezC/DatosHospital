@@ -1,0 +1,9 @@
+
+    .custom-hover {
+        transition: background-color 0.3s ease;
+    }
+
+    .custom-hover:hover {
+        background-color: #1e1c28; /* Color de fondo al hacer hover */
+        color: #f8f9fa; /* Cambia el color del texto si es necesario */
+    }
